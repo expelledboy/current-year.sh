@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 timestamp() (
-	date +"%Y-%m-%d %H:%M:%S"
+	date +"%Y-%m-%d"
 )
 
 current_year() (
